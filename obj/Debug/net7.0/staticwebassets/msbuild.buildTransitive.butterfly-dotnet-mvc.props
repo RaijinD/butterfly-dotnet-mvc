@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/butterfly-dotnet-mvc.props" />
+</Project>

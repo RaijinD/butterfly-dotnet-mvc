@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/butterfly-dotnet-mvc.props" />
+</Project>

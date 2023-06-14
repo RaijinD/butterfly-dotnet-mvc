@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sLk8t65LgQJ1WkjruLi8WxEbV3EwBg0N8X5oB1tGyYPRg+32bnW7Jf06b981KNplp0IEova0zy2tx5p51brNYw==",
+  "success": true,
+  "projectFilePath": "/home/raijin/Dev/dotnet/butterfly-dotnet-mvc/butterfly-dotnet-mvc.csproj",
+  "expectedPackageFiles": [
+    "/home/raijin/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
