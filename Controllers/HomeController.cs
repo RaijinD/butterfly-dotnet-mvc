@@ -15,6 +15,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        Console.WriteLine("Reached Home!");
         return View();
     }
 
